@@ -1,7 +1,7 @@
 import random
 
 name = input("What is your name? ")
-question = input("What is our question? ")
+question = input("What is your question? ")
 answer = ""
 
 random_number = random.randint(1, 9)
